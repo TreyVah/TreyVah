@@ -42,7 +42,7 @@ AI/ML engineering student building **credit risk and fintech systems** for Afric
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreyVah&theme=radical&hide_border=true&layout=compact&langs_count=6&title_color=00E5FF&icon_color=00E5FF" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreyVah&theme=radical&hide_border=true&layout=compact&langs_count=6&title_color=00E5FF&icon_color=00E5FF&v=2" height="160" />
 
 </div>
 
