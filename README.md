@@ -21,7 +21,7 @@ AI/ML engineering student building **credit risk and fintech systems** for Afric
 |---------|-------------|-------|
 | **[RiskNova](https://github.com/TreyVah)** 🏦 | Banking-grade credit risk scoring platform — ML scoring (AUC 0.94+), SHAP explainability, Maker-Checker workflow, AI Credit Counsellor. Deployed live. | `FastAPI` `XGBoost` `LightGBM` `MySQL` `Streamlit` |
 | **[StreakFit](https://github.com/TreyVah)** 💪 | Workout streak & focus platform with XP system, streak state machine, and session analytics. | `FastAPI` `PostgreSQL` `SQLAlchemy` `Vanilla JS` |
-| **[Hackathon Starter](https://github.com/TreyVah/hackathon-starter)** ⚡ | FastAPI starter kit — JWT auth, CRUD, seed data, Swagger UI. Built for the BoU@60 Hackathon. | `FastAPI` `JWT` `SQLAlchemy` |
+| **[Hackathon Starter](https://github.com/TreyVah/hackathon-starter)** ⚡ | FastAPI starter kit — JWT auth, CRUD, seed data, Swagger UI. Built for Hackathon preps. | `FastAPI` `JWT` `SQLAlchemy` |
 
 ## 🛠️ Tech Stack
 
