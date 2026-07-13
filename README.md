@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Trevor%20Mesach&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Kampala,%20Uganda&descSize=18&descAlignY=75" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=520&lines=Credit+Risk+%26+Fintech+ML+Systems;FastAPI+%7C+PostgreSQL+%7C+XGBoost+%7C+SHAP;Building+AI+for+African+Lending+%F0%9F%87%BA%F0%9F%87%AC" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=520&color=00E5FF&lines=Credit+Risk+%26+Fintech+ML+Systems;FastAPI+%7C+PostgreSQL+%7C+XGBoost+%7C+SHAP;Building+AI+for+African+Lending+%F0%9F%87%BA%F0%9F%87%AC" />
 
 </div>
 
@@ -21,7 +21,7 @@ AI/ML engineering student building **credit risk and fintech systems** for Afric
 |---------|-------------|-------|
 | **[RiskNova](https://github.com/TreyVah)** 🏦 | Banking-grade credit risk scoring platform — ML scoring (AUC 0.94+), SHAP explainability, Maker-Checker workflow, AI Credit Counsellor. Deployed live. | `FastAPI` `XGBoost` `LightGBM` `MySQL` `Streamlit` |
 | **[StreakFit](https://github.com/TreyVah)** 💪 | Workout streak & focus platform with XP system, streak state machine, and session analytics. | `FastAPI` `PostgreSQL` `SQLAlchemy` `Vanilla JS` |
-| **[Hackathon Starter](https://github.com/TreyVah/hackathon-starter)** ⚡ | FastAPI starter kit — JWT auth, CRUD, seed data, Swagger UI. Built for Hackathon preps. | `FastAPI` `JWT` `SQLAlchemy` |
+| **[Hackathon Starter](https://github.com/TreyVah/hackathon-starter)** ⚡ | FastAPI starter kit — JWT auth, CRUD, seed data, Swagger UI. Built for any Hackathon preparation. | `FastAPI` `JWT` `SQLAlchemy` |
 
 ## 🛠️ Tech Stack
 
@@ -38,20 +38,17 @@ AI/ML engineering student building **credit risk and fintech systems** for Afric
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TreyVah&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" height="160" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreyVah&theme=radical&hide_border=true&layout=compact&langs_count=6" height="160" />
-
-<img src="https://streak-stats.demolab.com/?user=TreyVah&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreyVah&theme=radical&hide_border=true&layout=compact&langs_count=6&title_color=00E5FF&icon_color=00E5FF" height="160" />
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 Activity
 
-[![Trevor's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TreyVah&bg_color=141321&color=FE428E&line=F8D847&point=FFFFFF&area=true&area_color=FE428E&hide_border=true)](https://github.com/TreyVah)
+[![Trevor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TreyVah&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true)](https://github.com/TreyVah)
 
 ## 💬 Dev Quote
 
@@ -61,13 +58,13 @@ AI/ML engineering student building **credit risk and fintech systems** for Afric
 
 ## 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-treyvah.github.io-FE428E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://treyvah.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-treyvah.github.io-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=141321)](https://treyvah.github.io)
 [![Email](https://img.shields.io/badge/Email-trevormesach23@gmail.com-A9FEF7?style=for-the-badge&logo=gmail&logoColor=141321)](mailto:trevormesach23@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TreyVah-F8D847?style=for-the-badge&logo=github&logoColor=141321)](https://github.com/TreyVah)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TreyVah&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=TreyVah&color=00E5FF&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" width="100%" />
 
